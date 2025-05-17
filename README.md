@@ -31,7 +31,7 @@ The primary objective of this project is to **design and implement a RESTful API
 ![Image](https://github.com/user-attachments/assets/ac95881a-9562-41f2-8bfc-c4ad5895aca6)
 
 ![Image](https://github.com/user-attachments/assets/32d74246-f829-4da1-a8d9-0450fdc10e3c)
-      ### FOR DELETE OPERATION 
+      ### FOR DELETE OPERATION after applied it on Postman 
 ![Image](https://github.com/user-attachments/assets/a064d309-3083-44af-a363-62b1d1255b00)
 
 ## 🚀 Getting Started
