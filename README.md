@@ -35,10 +35,3 @@ The primary objective of this project is to **design and implement a RESTful API
 ![Image](https://github.com/user-attachments/assets/a064d309-3083-44af-a363-62b1d1255b00)
 
 ## 🚀 Getting Started
-
-### 🔧 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/library-api.git
-   cd library-api
