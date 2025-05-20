@@ -43,3 +43,5 @@ The primary objective of this project is to **design and implement a RESTful API
 
 ![Image](https://github.com/user-attachments/assets/ccde4234-495d-44c5-b602-30ba5321123d)
 
+![Image](https://github.com/user-attachments/assets/b9dfe896-f72f-4dc7-a5f2-cadbf9a389ce)
+
