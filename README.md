@@ -1,4 +1,11 @@
-## Task Description
+*Company*: CODTECH IT SOLUTIONS
+*NAME*:  NASIR HUSSAIN KHAN
+*INTERN ID*: CT12WE82
+*DOMAIN*: Software Development
+*Duration*: 12 weeks
+*Mentor*: NEELA SANTOSH
+## INTERNSHIP TASK 2: RESTful API for Library Management System
+## Task Description 
 # 📚 Library Management System API
 
 This is a **RESTful API** built for a Library Management System using **Node.js**, **Express**, and **MongoDB**. It enables full CRUD (Create, Read, Update, Delete) operations for managing books, users, checkouts, and reservations. The API is designed with scalability and security in mind, following best practices and modular architecture.
